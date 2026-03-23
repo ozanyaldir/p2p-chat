@@ -38,5 +38,5 @@ This project serves as a technical architecture study for decentralized communic
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/your-username/p2p-chat-expo.git](https://github.com/your-username/p2p-chat-expo.git)
-   cd p2p-chat-expo
+   git clone [https://github.com/ozanyaldir/p2p-chat.git]([https://github.com/your-username/p2p-chat-expo.git](https://github.com/ozanyaldir/p2p-chat.git))
+   cd p2p-chat
